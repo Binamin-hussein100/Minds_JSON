@@ -1,4 +1,4 @@
-# firebase-json-server
+# MINDS firebase-json-server
 
 Roll your own [json-server](https://github.com/typicode/json-server) with Google Firebase
 
